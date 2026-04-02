@@ -44,7 +44,7 @@ The CNN model consists of:
 
 ## 📊 Dataset
 
-German Traffic Sign Recognition Benchmark (GTSRB) [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign]
+[German Traffic Sign Recognition Benchmark (GTSRB)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 ---
 
